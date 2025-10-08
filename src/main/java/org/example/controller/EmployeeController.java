@@ -1,8 +1,8 @@
 package org.example.controller;
 
 
-import com.example.demo.model.Employee;
-import com.example.demo.service.EmployeeService;
+import org.example.model.Employee;
+import org.example.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
 import java.util.*;
 

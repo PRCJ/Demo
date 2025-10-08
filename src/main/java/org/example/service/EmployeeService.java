@@ -1,7 +1,7 @@
 package org.example.service;
 
 
-import com.example.demo.model.Employee;
+import org.example.model.Employee;
 import org.springframework.stereotype.Service;
 import java.util.*;
 
